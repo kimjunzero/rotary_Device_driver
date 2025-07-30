@@ -1,0 +1,1 @@
+savedcmd_/home/microsoft/project/linux/mymodule/rotary_compelte/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/microsoft/project/linux/mymodule/rotary_compelte/Module.symvers -T /home/microsoft/project/linux/mymodule/rotary_compelte/modules.order -i Module.symvers -e 

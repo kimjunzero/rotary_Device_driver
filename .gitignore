@@ -1,0 +1,23 @@
+# Kernel module build artifacts
+*.ko
+*.o
+*.mod.c
+*.mod
+*.symvers
+modules.order
+.tmp_versions/
+.cache/
+
+# Other common build artifacts
+*.bin
+*.elf
+*.map
+*.a
+*.so
+
+# Editor and IDE files
+*~
+*.swp
+.vscode/
+.idea/
+.DS_Store
