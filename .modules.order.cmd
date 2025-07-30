@@ -1,1 +1,0 @@
-savedcmd_/home/microsoft/project/linux/mymodule/rotary_compelte/modules.order := {   echo /home/microsoft/project/linux/mymodule/rotary_compelte/rotary.o; :; } > /home/microsoft/project/linux/mymodule/rotary_compelte/modules.order

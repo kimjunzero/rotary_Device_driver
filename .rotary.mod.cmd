@@ -1,1 +1,0 @@
-savedcmd_/home/microsoft/project/linux/mymodule/rotary_compelte/rotary.mod := printf '%s\n'   rotary_main.o rotary_led_control.o rotary_interrupt_handlers.o rotary_char_dev.o | awk '!x[$$0]++ { print("/home/microsoft/project/linux/mymodule/rotary_compelte/"$$0) }' > /home/microsoft/project/linux/mymodule/rotary_compelte/rotary.mod

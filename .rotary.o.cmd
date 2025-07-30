@@ -1,1 +1,0 @@
-savedcmd_/home/microsoft/project/linux/mymodule/rotary_compelte/rotary.o := aarch64-linux-gnu-ld -EL  -maarch64elf -z noexecstack --no-warn-rwx-segments   -r -o /home/microsoft/project/linux/mymodule/rotary_compelte/rotary.o @/home/microsoft/project/linux/mymodule/rotary_compelte/rotary.mod 
